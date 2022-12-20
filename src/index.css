@@ -52,6 +52,19 @@ nav h1 {
   position: relative;
 }
 
+.note-card .buttons {
+  text-align: right;
+}
+.note-card i {
+  color: var(--primary);
+  margin-left: 10px;
+  font-size: 1.2em;
+  padding: 6px;
+  background: #eee;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
 /* forms */
 form {
   background: #fefcf3;
