@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Supabase-Tutorial-for-Beginners-starter-project.iml" filepath="$PROJECT_DIR$/.idea/Supabase-Tutorial-for-Beginners-starter-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/notesApp-react-supabase.iml" filepath="$PROJECT_DIR$/.idea/notesApp-react-supabase.iml" />
     </modules>
   </component>
 </project>

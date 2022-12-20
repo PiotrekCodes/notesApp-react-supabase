@@ -9,7 +9,7 @@ function App() {
   return (
     <BrowserRouter>
       <nav>
-        <h1>Notes App</h1>
+        <h1>Supanotes App</h1>
         <Link to="/">Home</Link>
         <Link to="/create">Create New Note</Link>
       </nav>
