@@ -1,9 +1,4 @@
-# Starter React Project for the Supabase Course
+# CRUD app built with React, backend served from Supabase API.
 
-**How to run the starter project:**
-
-1. Once downloaded, navigate to the project directory in a terminal and run **npm install** to install all the project dependencies.
-2. In the project directory, run **npm start** to run the app & view it in a browser at [http://localhost:3000](http://localhost:3000).
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. Download files, open directory in you code editor and run 'npm install' to download dependecies.
+2. Run 'npm start' command in your terminal and visit http://localhost:3000/ to use the app.
